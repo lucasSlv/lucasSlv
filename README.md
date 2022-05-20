@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Silva, atualmente estou estudando para me tornar um desenvolvedor Front End.
+### Olá! Eu sou o Lucas Silva, atualmente estou estudando para me tornar um Frontend Developer.
 <p>Discord: Lucas Silva#9919 </p>
 
 <div align="center">
