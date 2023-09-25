@@ -1,22 +1,57 @@
-### Olá! Eu sou o Lucas Silva, atualmente estou estudando para me tornar um Frontend Developer.
-<p>Discord: Lucas Silva#9919 </p>
 
-<div align="center">
-  <a href="https://github.com/lucasSlv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasSlv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasSlv&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-##
+# 🔥 Lucas Silva
 
-<div>
-  <a href="https://instagram.com/luscawtf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucassilvax005x@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-silva-166864237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+**Software Developer** 
+
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/lucas-silva-166864237/)
+[![Instagram badge](https://img.shields.io/badge/instagram-red?logo=instagram&style=for-the-badge&logoColor=white)](https://instagram.com/luscawtf)
+
+Full Stack Developer, based on NodeJS, Typescript and ReactJS. I'm enthusiastic about the entire web and mobile ecosystem.
+
+- ⚡ Currently mastering: **_Node.js, React , React Native_**
+- 📚 Currently learning: **_AWS, TDD, Docker_**
+- 📫 How to reach me: lucassilvax005x@gmail.com
+
+---
+
+### Main technologies:
+
+<table>
+  <tr>
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+        <p><small>TypeScript</small></p>
+    </td>
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+        <p><small>Javascript</small></p>
+    </td>
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+        <p><small>React</small></p>
+    </td>
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" />
+        <p><small>Jest</small></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="50" />
+        <p><small>NodeJS</small></p>
+    </td>
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="50" />
+        <p><small>MySQL</small></p>
+    </td>
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50" />
+        <p><small>Docker</small></p>
+    </td>
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" />
+        <p><small>AWS</small></p>
+    </td>
+  </tr>
+</table>
