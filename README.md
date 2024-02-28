@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/lucas-silva-166864237/)
 [![Instagram badge](https://img.shields.io/badge/instagram-red?logo=instagram&style=for-the-badge&logoColor=white)](https://instagram.com/luscawtf)
 
-Full Stack Developer, based on NodeJS, Typescript and ReactJS. I'm enthusiastic about the entire web and mobile ecosystem.
+Full Stack Developer, based on NodeJS, Typescript and ReactJS. I'm enthusiastic about the entire web.
 
 - ⚡ Currently mastering: **_Node.js, React , React Native_**
 - 📚 Currently learning: **_AWS, TDD, Docker_**
