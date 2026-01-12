@@ -1,21 +1,85 @@
-```js
+```ts
 import Developer from "lucasSlv";
 
 class AboutMe extends Developer {
   name = "Lucas Silva";
-  area = "Software Developer";
+  role = "Backend Software Engineer";
   location = "Sergipe, Brazil";
-  interests = ["Software Architecture", "Test-Driven Development - TDD", "Project Management"];
+
+  summary = `
+  Backend-focused engineer with strong experience in designing scalable,
+  testable and event-driven systems. I work daily with distributed
+  architectures, clean code, and domain-oriented solutions, always
+  prioritizing maintainability, observability and business clarity.
+  `;
+
+  interests = [
+    "Software Architecture",
+    "Domain-Driven Design (DDD)",
+    "Event-Driven Architecture",
+    "Distributed Systems",
+    "Test-Driven Development (TDD)",
+    "Clean Code & SOLID",
+    "Observability & Monitoring",
+    "Technical Leadership & Mentorship"
+  ];
 }
 
 class Skills extends Developer {
-  languages = ["JavaScript", "TypeScript"];
-  backend = ["Node.js", "Express"];
-  database = ["MongoDB"];
-  cloud = ["AWS"];
-  testing = ["Jest"];
-  frontend = ["React"];
-  styling = ["Styled Components"];
+  languages = [
+    "TypeScript",
+    "JavaScript"
+  ];
+
+  backend = [
+    "Node.js",
+    "Express",
+    "REST APIs",
+    "Message-driven services"
+  ];
+
+  messaging = [
+    "Kafka",
+    "Async consumers & producers",
+    "Event-based workflows"
+  ];
+
+  databases = [
+    "MongoDB",
+    "Mongoose",
+    "Transactions & Indexing strategies"
+  ];
+
+  testing = [
+    "Jest",
+    "Unit Tests",
+    "Integration Tests",
+    "Testcontainers"
+  ];
+
+  architecture = [
+    "Clean Architecture",
+    "DDD",
+    "Separation of Concerns",
+    "Service & Repository patterns"
+  ];
+
+  cloudAndInfra = [
+    "AWS",
+    "Docker",
+    "CI/CD pipelines"
+  ];
+
+  frontend = [
+    "React",
+    "Styled Components",
+    "Vite"
+  ];
+
+  observability = [
+    "Logs",
+    "Metrics",
+    "Grafana (monitoring & dashboards)"
+  ];
 }
 ```
-- 📫 How to reach me: lucassilvax005x@gmail.com
